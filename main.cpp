@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-	cout<<"Fuck World"<<endl;
+	cout<<"Fuck This World"<<endl;
 	return 0;
 }
 
